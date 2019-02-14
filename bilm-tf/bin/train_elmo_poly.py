@@ -45,7 +45,7 @@ def main(args):
     #               100138331 (for multitask spanish)
     #               109527440 (for multitask swedish)
     #               211093428 (for multitask english+german)
-    n_train_tokens = 102915840
+    n_train_tokens = 107587022 
 
     options = {
      'bidirectional': True,
